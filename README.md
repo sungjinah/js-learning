@@ -1,2 +1,2 @@
 # js-learning
-A code repofor javascript series for learning from hitesh chaudhary 
+A code repo for javascript series for learning from hitesh chaudhary 
